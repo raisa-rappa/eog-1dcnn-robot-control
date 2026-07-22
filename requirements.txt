@@ -1,0 +1,10 @@
+# Python 3.10+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+bitalino
+opencv-python
+coppeliasim-zmqremoteapi-client
