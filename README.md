@@ -31,7 +31,7 @@ The complete system covers:
 
 ## System Architecture
 
-<img width="1448" height="1086" alt="System Architecture" src="https://github.com/user-attachments/assets/34e6499a-0790-4086-96ab-00c8e9fad667" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b6a5113a-25b9-4515-9ffc-6d1c1a280c59" />
 
 The system consists of two main stages:
 
